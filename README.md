@@ -2,9 +2,9 @@
 
 Avoimen lähdekoodin asiakas- ja potilastietojärjestelmäpalvelu.
 
-openAPOTTI - Home of the openAPOTTI PAS and EPR 
+**openAPOTTI - Home of the openAPOTTI PAS and EPR**
 
-openAPOTTI functionality
+***openAPOTTI functionality***
 
 The latest generation of our full MAXIMS suite has become openAPOTTI, our first open source software product. It has the same rich functionality and currently includes:
 
