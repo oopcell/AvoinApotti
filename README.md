@@ -1,13 +1,13 @@
-![logo](http://www.designmantic.com/create_thumb?id=1303&company=openApotti&slogan=&variant=1)
+![logo](http://www.designmantic.com/create_thumb?id=1239&company=openApotti&slogan=&variant=1)
 
-Avoimen lähdekoodin asiakas- ja potilastietojärjestelmäpalvelu.
+**Avoimen lähdekoodin asiakas- ja potilastietojärjestelmäpalvelu.**
 
 * [Apotti kotisivu](http://www.hel.fi/hki/apotti/fi/Etusivu)
 * [Apotti-hanke](https://fi.wikipedia.org/wiki/Apotti-hanke)
 
-**openAPOTTI - Home of the openAPOTTI PAS and EPR**
+openAPOTTI - Home of the openAPOTTI PAS and EPR
 
-***openAPOTTI functionality***
+openAPOTTI functionality
 
 The latest generation of our full MAXIMS suite has become openAPOTTI, our first open source software product. It has the same rich functionality and currently includes:
 
@@ -34,4 +34,4 @@ An Electronic Patient Record including:
 
 HL7 interfaces (bi-directional) and open APIs for comprehensive integration with third-party systems
 
-Our wide-range of products are fully integrated and have been built from the ground up in partnership with our NHS customers. This means that healthcare providers can now access years of expertise and investment at no cost. IMS MAXIMS strongly encourage the end-user organisation to take up our support contract, there is no one better placed to support, implement, train, develop, deliver change management, project management and programme management services for the openMAXIMS product suite.
+Our wide-range of products are fully integrated and have been built from the ground up in partnership with our NHS customers. This means that healthcare providers can now access years of expertise and investment at no cost. IMS MAXIMS strongly encourage the end-user organisation to take up our support contract, there is no one better placed to support, implement, train, develop, deliver change management, project management and programme management services for the openAPOTTI product suite.
