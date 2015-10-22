@@ -1,4 +1,4 @@
-## openAPOTTI
+![logo](http://www.designmantic.com/create_thumb?id=1303&company=openApotti&slogan=&variant=1)
 
 Avoimen lähdekoodin asiakas- ja potilastietojärjestelmäpalvelu.
 
