@@ -1,9 +1,13 @@
-openMAXIMS - Home of the openMAXIMS PAS and EPR
+## openAPOTTI
+
+Avoimen lähdekoodin asiakas- ja potilastietojärjestelmäpalvelu.
+
+openAPOTTI - Home of the openAPOTTI PAS and EPR 
 ===============================================
 
-#openMAXIMS functionality
+#openAPOTTI functionality
 
-The latest generation of our full MAXIMS suite has become openMAXIMS, our first open source software product. It has the same rich functionality and currently includes:
+The latest generation of our full MAXIMS suite has become openAPOTTI, our first open source software product. It has the same rich functionality and currently includes:
 
 A full Patient Administration System designed for the NHS, including support for:
 
