@@ -1,6 +1,9 @@
-![Finland](http://www.egofunktio.fi/Ajanvaraus/suomilippu.gif)
+
 ![logo](http://www.designmantic.com/create_thumb?id=1239&company=openApotti&slogan=&variant=1)
 
+---
+
+![Finland](http://www.egofunktio.fi/Ajanvaraus/suomilippu.gif)
 **Avoimen lähdekoodin asiakas- ja potilastietojärjestelmäpalvelu.**
 
 * [Apotti kotisivu](http://www.hel.fi/hki/apotti/fi/Etusivu)
