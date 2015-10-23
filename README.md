@@ -5,7 +5,9 @@
 
 * [Apotti kotisivu](http://www.hel.fi/hki/apotti/fi/Etusivu)
 * [Apotti-hanke](https://fi.wikipedia.org/wiki/Apotti-hanke)
-***
+
+---
+
 ![UK](http://www.passepasse.com/images/gb.jpg)
 openAPOTTI - Home of the openAPOTTI PAS and EPR forked from IMS-MAXIMS/openMAXIMS
 
