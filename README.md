@@ -1,11 +1,14 @@
+![Finland](http://www.egofunktio.fi/Ajanvaraus/suomilippu.gif)
 ![logo](http://www.designmantic.com/create_thumb?id=1239&company=openApotti&slogan=&variant=1)
 
 **Avoimen lähdekoodin asiakas- ja potilastietojärjestelmäpalvelu.**
 
 * [Apotti kotisivu](http://www.hel.fi/hki/apotti/fi/Etusivu)
 * [Apotti-hanke](https://fi.wikipedia.org/wiki/Apotti-hanke)
+***
+![UK](http://www.passepasse.com/images/gb.jpg)
+openAPOTTI - Home of the openAPOTTI PAS and EPR forked from IMS-MAXIMS/openMAXIMS
 
-openAPOTTI - Home of the openAPOTTI PAS and EPR
 
 openAPOTTI functionality
 
