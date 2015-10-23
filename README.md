@@ -15,11 +15,11 @@
 openAPOTTI - Home of the openAPOTTI PAS and EPR forked from IMS-MAXIMS/openMAXIMS
 
 
-** openAPOTTI functionality **
+**openAPOTTI functionality**
 
 The latest generation of our full MAXIMS suite has become openAPOTTI, our first open source software product. It has the same rich functionality and currently includes:
 
-** A full Patient Administration System designed for the NHS, including support for: **
+**A full Patient Administration System designed for the NHS, including support for:**
 
 *  Choose and Book v3 (Full rollout approval from HSCIC)
 *  Commissioning Data Sets
@@ -29,7 +29,7 @@ The latest generation of our full MAXIMS suite has become openAPOTTI, our first 
 *  CQUIN targets
 
 
-** An Electronic Patient Record including: **
+**An Electronic Patient Record including:**
 
 *  Order Communications and Results Reporting
 *  Integrated Care Pathways
