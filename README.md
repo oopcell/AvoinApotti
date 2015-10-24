@@ -41,4 +41,6 @@ HL7 interfaces (bi-directional) and open APIs for comprehensive integration with
 
 Our wide-range of products are fully integrated and have been built from the ground up in partnership with our NHS customers. This means that healthcare providers can now access years of expertise and investment at no cost. IMS MAXIMS strongly encourage the end-user organisation to take up our support contract, there is no one better placed to support, implement, train, develop, deliver change management, project management and programme management services for the openAPOTTI product suite.
 
-[Compiling the source code files for Windows](https://github.com/oopcell/openApotti/tree/master/Source%20Library)
+---
+
+[Compiling the source code files for Windows](https://github.com/oopcell/openApotti/blob/master/Source%20Library/README.TXT)
