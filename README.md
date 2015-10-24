@@ -4,7 +4,7 @@
 ---
 
 ![Finland](http://www.saimaanlaguuni.fi/fi.gif)
-**Avoimen lähdekoodin asiakas- ja potilastietojärjestelmäpalvelu.**
+**Avoimen lähdekoodin asiakas- ja potilastietojärjestelmä.**
 
 * [Apotti kotisivu](http://www.hel.fi/hki/apotti/fi/Etusivu)
 * [Apotti-hanke](https://fi.wikipedia.org/wiki/Apotti-hanke)
@@ -12,8 +12,7 @@
 ---
 
 ![UK](http://konffa.com/img/flag-uk-small.jpg)
-openAPOTTI - Home of the openAPOTTI PAS and EPR forked from IMS-MAXIMS/openMAXIMS
-
+**openAPOTTI** - Home of the openAPOTTI PAS and EPR, forked from IMS-MAXIMS/openMAXIMS
 
 **openAPOTTI functionality**
 
@@ -28,7 +27,6 @@ The latest generation of our full MAXIMS suite has become openAPOTTI, our first 
 *  Outpatient Appointment Management
 *  CQUIN targets
 
-
 **An Electronic Patient Record including:**
 
 *  Order Communications and Results Reporting
@@ -39,7 +37,8 @@ The latest generation of our full MAXIMS suite has become openAPOTTI, our first 
 *  Clinical specialties (e.g. Oncology, Spinal Cord Injuries, etc.)
 *  eDischarge process
 
-
 HL7 interfaces (bi-directional) and open APIs for comprehensive integration with third-party systems
 
 Our wide-range of products are fully integrated and have been built from the ground up in partnership with our NHS customers. This means that healthcare providers can now access years of expertise and investment at no cost. IMS MAXIMS strongly encourage the end-user organisation to take up our support contract, there is no one better placed to support, implement, train, develop, deliver change management, project management and programme management services for the openAPOTTI product suite.
+
+[Compiling the source code files for Windows](https://github.com/oopcell/openApotti/tree/master/Source%20Library)
