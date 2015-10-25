@@ -43,4 +43,4 @@ Our wide-range of products are fully integrated and have been built from the gro
 
 ---
 
-[Compiling the source code files for Windows](https://github.com/oopcell/openApotti/blob/master/Source%20Library/README.TXT)
+[Compiling the source code files for Windows](https://github.com/oopcell/openApotti/tree/master/Source%20Library)
