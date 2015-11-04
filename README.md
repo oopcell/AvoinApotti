@@ -12,7 +12,7 @@
 ---
 
 ![UK](http://konffa.com/img/flag-uk-small.jpg)
-**openAPOTTI** - Home of the openAPOTTI PAS and EPR, forked from IMS-MAXIMS/openMAXIMS
+**openAPOTTI** - Home of the openAPOTTI PAS and EPR, forked from IMS-MAXIMS/openMAXIMS, size 423.47MB
 
 **openAPOTTI functionality**
 
