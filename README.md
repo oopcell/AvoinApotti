@@ -1,5 +1,5 @@
 
-![logo](http://www.designmantic.com/create_thumb?id=1239&company=openApotti&slogan=&variant=1)
+![logo](http://www.designmantic.com/create_thumb?id=1239&company=AvoinApotti&slogan=&variant=1)
 
 ---
 
@@ -12,11 +12,11 @@
 ---
 
 ![UK](http://konffa.com/img/flag-uk-small.jpg)
-**openAPOTTI** - Home of the openAPOTTI PAS and EPR, forked from IMS-MAXIMS/openMAXIMS, size 423.47MB
+**AvoinApotti** - Home of the AvoinApotti PAS and EPR, forked from IMS-MAXIMS/openMAXIMS, size 423.47MB
 
-**openAPOTTI functionality**
+**AvoinApotti functionality**
 
-The latest generation of our full MAXIMS suite has become openAPOTTI, our first open source software product. It has the same rich functionality and currently includes:
+The latest generation of our full MAXIMS suite has become AvoinApotti, our first open source software product. It has the same rich functionality and currently includes:
 
 **A full Patient Administration System designed for the NHS, including support for:**
 
@@ -39,8 +39,9 @@ The latest generation of our full MAXIMS suite has become openAPOTTI, our first 
 
 HL7 interfaces (bi-directional) and open APIs for comprehensive integration with third-party systems
 
-Our wide-range of products are fully integrated and have been built from the ground up in partnership with our NHS customers. This means that healthcare providers can now access years of expertise and investment at no cost. IMS MAXIMS strongly encourage the end-user organisation to take up our support contract, there is no one better placed to support, implement, train, develop, deliver change management, project management and programme management services for the openAPOTTI product suite.
+Our wide-range of products are fully integrated and have been built from the ground up in partnership with our NHS customers. This means that healthcare providers can now access years of expertise and investment at no cost. IMS MAXIMS strongly encourage the end-user organisation to take up our support contract, there is no one better placed to support, implement, train, develop, deliver change management, project management and programme management services for the AvoinApotti product suite.
 
 ---
 
-[Compiling the source code files for Windows](https://github.com/oopcell/openApotti/tree/master/Source%20Library)
+* [Compiling the source code files for Windows](https://github.com/oopcell/openApotti/tree/master/Source%20Library)
+* [Wiki](https://github.com/oopcell/AvoinApotti/wiki)
