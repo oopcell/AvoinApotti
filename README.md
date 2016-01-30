@@ -12,7 +12,7 @@
 ---
 
 ![UK](http://konffa.com/img/flag-uk-small.jpg)
-**AvoinApotti** - Home of the AvoinApotti PAS and EPR, forked from IMS-MAXIMS/openMAXIMS, size 423.47MB
+**AvoinApotti** - Home of the AvoinApotti PAS and EPR, forked from IMS-MAXIMS/openMAXIMS
 
 **AvoinApotti functionality**
 
